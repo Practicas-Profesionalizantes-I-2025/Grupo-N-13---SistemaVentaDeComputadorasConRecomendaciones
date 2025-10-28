@@ -12,8 +12,6 @@
 
 
 
-
-
         public Cliente(string Nombre,string Correo, string Contrasenia)
         {
 

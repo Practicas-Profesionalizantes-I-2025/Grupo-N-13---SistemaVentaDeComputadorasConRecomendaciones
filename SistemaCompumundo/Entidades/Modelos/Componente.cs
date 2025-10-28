@@ -6,23 +6,31 @@ using System.Threading.Tasks;
 
 namespace Entidades.Modelos
 {
-    public class Componente : Producto 
+    public class Componente
     {
 
         public int Id { get; set; }
+
+        public string Tipo { get; set; }
 
         public string Marca { get; set; }
 
         public string Modelo { get; set; }
 
+        public int Cantidad { get; set; }
 
-        public Componente(string Tipo, string marca, string Modelo, float Precio, int Cantidad) : base(Tipo, Precio, Cantidad)
+        public float Precio { get; set; }
+
+
+
+        public Componente(string Tipo, string marca, string Modelo, float Precio, int Cantidad)
         {
             this.Tipo = Tipo;
             this.Marca = marca;
             this.Modelo = Modelo;
-            this.Precio = Precio;
             this.Cantidad = Cantidad;
+            this.Precio = Precio;
+            
 
         }
 

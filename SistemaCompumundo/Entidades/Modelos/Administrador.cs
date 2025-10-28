@@ -16,7 +16,12 @@ namespace Entidades.Modelos
         public string ContraseniaAdmin { get; set; }
 
 
+        public Administrador(string CodigoAdmin, string ContraseniaAdmin)
+        {
+            this.CodigoAdmin = CodigoAdmin;
+            this.ContraseniaAdmin = ContraseniaAdmin;
 
+        }
 
     }
 }

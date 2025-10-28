@@ -25,6 +25,7 @@ namespace Entidades.Modelos
             this.NombreEmpresa = NombreEmpresa;
             this.NumeroContacto = NumeroContacto;
             this.Correo = Correo;
+            
 
         }
 
