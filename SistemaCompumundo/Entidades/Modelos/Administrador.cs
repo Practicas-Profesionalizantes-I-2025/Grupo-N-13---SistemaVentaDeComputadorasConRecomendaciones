@@ -16,6 +16,18 @@ namespace Entidades.Modelos
         public string ContraseniaAdmin { get; set; }
 
 
+        // cardinalidad pedido 1-N
+
+        public virtual ICollection<Pedido> Pedidos { get; set; } = new List<Pedido>();  
+
+        // Cardinalidad Componente 1-N
+
+        public virtual ICollection<Componente> Componentes { get; set; } = new List<Componente>();
+
+
+
+
+
         public Administrador(string CodigoAdmin, string ContraseniaAdmin)
         {
             this.CodigoAdmin = CodigoAdmin;

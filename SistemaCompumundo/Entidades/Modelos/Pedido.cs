@@ -11,7 +11,7 @@ namespace Entidades.Modelos
 
         public int Id { get; set; }
 
-        public Cliente Remitente { get; set; }
+        public string Remitente { get; set; }
 
         public List<string> ProductosPedidos { get; set; }
 
@@ -23,7 +23,33 @@ namespace Entidades.Modelos
         public float TotalPedido { get; set; }
 
 
-        public Pedido(Cliente Remitente,List<string> ProductosPedidos, DateTime FechaPedido, string EstadoPedido,float TotalPedido)
+        //Referencias de Cardinalidades Cliente
+        public int Id_Cliente { get; set; }
+
+        public Cliente cliente { get; set; }
+
+        // Referencia Cardinalidades Administrador
+        public int Id_Administrador { get; set; }
+
+        public Administrador administrador { get; set; }
+
+
+
+        //Referencia cardinalidades 1-N 
+
+        public virtual ICollection<Componente> Componentes { get; set; } = new List<Componente>();
+
+        //Referencia Cardinalidades 1-N
+
+        public virtual ICollection<PcArmada> PcArmada { get; set; } = new List<PcArmada>();
+
+        //Referencia Cardinalidades 1-1 
+
+        public Ventas Ventas { get; set; }
+
+
+
+        public Pedido(string Remitente,List<string> ProductosPedidos, DateTime FechaPedido, string EstadoPedido,float TotalPedido)
         {
 
             this.Remitente = Remitente;

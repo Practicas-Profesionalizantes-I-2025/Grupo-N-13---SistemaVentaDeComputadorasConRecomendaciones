@@ -19,6 +19,10 @@ namespace Entidades.Modelos
         public string Correo {  get; set; }
 
 
+        //Referencia Cardinalidades 1-N
+        public virtual ICollection<Componente> componentes { get; set; } = new List<Componente>();  
+
+
         public Proveedor(string Nombre, string NombreEmpresa, string NumeroContacto, string Correo)
         {
             this.Nombre = Nombre;

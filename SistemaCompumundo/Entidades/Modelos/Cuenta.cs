@@ -16,6 +16,13 @@ namespace Entidades.Modelos
         public string Localidad { get; set; }
 
 
+        //Referencia Cardinalidades Cliente
+
+        public int Id_Cliente { get; set; }
+
+        public Cliente Cliente { get; set; }    
+
+
         public Cuenta(string Facturacion, string Localidad)
         {
 

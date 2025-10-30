@@ -11,6 +11,12 @@
         public string Contrasenia { get; set; }
 
 
+        //Referencia Cardinalidades 1-N
+        public virtual ICollection<Pedido> Pedidos { get; set; } = new List<Pedido>();
+
+        //Referencia Cardinalidades 1-1
+        public Cuenta Cuenta { get; set; }
+
 
         public Cliente(string Nombre,string Correo, string Contrasenia)
         {
@@ -20,6 +26,7 @@
             this.Contrasenia = Contrasenia;
 
         }
+        
 
 
     }

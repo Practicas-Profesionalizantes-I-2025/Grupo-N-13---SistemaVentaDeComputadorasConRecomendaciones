@@ -10,18 +10,27 @@ namespace Entidades.Modelos
     {
         public int Id { get; set; }
 
-        public List<Producto> ProductoVendido { get; set; }
+        public string ProductoVendido { get; set; }
 
-        public Cliente ClienteComprador { get; set; }
+        public string ClienteComprador { get; set; }
 
         public DateTime FechaVenta { get; set; }
 
-        public Ventas(int id, Producto productoVendido, Cliente clienteComprador, DateTime fechaVenta)
+
+        //Referencia cardinalidades Pedido
+
+        public int Id_pedido { get; set; }
+
+        public Pedido Pedido { get; set; }
+
+
+
+        public Ventas(int id,string productoVendido, string clienteComprador, DateTime fechaVenta)
         {
-            Id = id;
-            ProductoVendido = new List<Producto>();
-            ClienteComprador = clienteComprador;
-            FechaVenta = fechaVenta;
+            this.Id = id;
+            this.ProductoVendido = ProductoVendido;
+            this.ClienteComprador = clienteComprador;
+            this.FechaVenta = fechaVenta;
         }
     }
 }

@@ -22,6 +22,34 @@ namespace Entidades.Modelos
         public float Precio { get; set; }
 
 
+        // Referencias Cardinalidades Administrador
+
+        public int Id_Admministrador { get; set; }
+
+        public Administrador Administrador { get; set; }
+
+
+        // Referencia cardinalidades Pedido 
+
+        public int Id_Pedido { get; set; }
+
+        public Pedido Pedido { get; set; } 
+
+
+        //Referencia Cardinalidades Proveedor
+
+        public int Id_Proveedor { get; set; }
+
+        public Proveedor Proveedor { get; set; }
+        
+
+        //Referencia Cardinalidades 1-N
+
+        public virtual ICollection<PcArmada> PcArmada { get; set; } = new List<PcArmada>();
+
+
+
+
 
         public Componente(string Tipo, string marca, string Modelo, float Precio, int Cantidad)
         {
