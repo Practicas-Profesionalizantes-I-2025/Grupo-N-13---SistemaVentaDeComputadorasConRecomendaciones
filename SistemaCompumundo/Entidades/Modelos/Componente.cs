@@ -31,9 +31,9 @@ namespace Entidades.Modelos
 
         // Referencia cardinalidades Pedido 
 
-        public int Id_Pedido { get; set; }
+        public int Id_DetalleVenta { get; set; }
 
-        public Pedido Pedido { get; set; } 
+        public DetalleVenta Detalleventa { get; set; } 
 
 
         //Referencia Cardinalidades Proveedor

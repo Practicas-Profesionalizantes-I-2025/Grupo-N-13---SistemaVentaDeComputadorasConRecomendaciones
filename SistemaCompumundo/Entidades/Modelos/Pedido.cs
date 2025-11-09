@@ -30,26 +30,22 @@ namespace Entidades.Modelos
         public Administrador administrador { get; set; }
 
 
-
-        //Referencia cardinalidades 1-N 
-
-        public virtual ICollection<Componente> Componentes { get; set; } = new List<Componente>();
-
-        //Referencia Cardinalidades 1-N
-
-        public virtual ICollection<PcArmada> PcArmada { get; set; } = new List<PcArmada>();
+       
 
         //Referencia Cardinalidades 1-1 
 
         public Ventas Ventas { get; set; }
 
 
+        //referencia cardinalidad Detalleventa
 
-        public Pedido(string Remitente,List<string> ProductosPedidos, DateTime FechaPedido,float TotalPedido)
+        public DetalleVenta detalleventa { get; set; }
+
+
+        public Pedido(string Remitente,DateTime FechaPedido,float TotalPedido)
         {
 
             this.Remitente = Remitente;
-            this.ProductosPedidos = new List<string>();
             this.FechaPedido = FechaPedido;
             this.TotalPedido = TotalPedido;
 
