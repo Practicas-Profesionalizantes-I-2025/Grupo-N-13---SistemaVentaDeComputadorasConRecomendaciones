@@ -13,12 +13,8 @@ namespace Entidades.Modelos
 
         public string Remitente { get; set; }
 
-        public List<string> ProductosPedidos { get; set; } xxx
-
         public DateTime FechaPedido { get; set; }
 
-
-        public enum EstadoPedido {Espera, Cancelado, Confirmado} xxx
 
         public float TotalPedido { get; set; }
 
