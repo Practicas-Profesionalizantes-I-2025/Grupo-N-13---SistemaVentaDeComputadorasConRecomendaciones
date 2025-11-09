@@ -12,7 +12,7 @@
 
 
         //Referencia Cardinalidades 1-N
-        public virtual ICollection<Pedido> Pedidos { get; set; } = new List<Pedido>();
+        public virtual ICollection<Pedido> Pedidos { get; set; } = new List<Pedido>(); // Contiene dependencias de navegacion
 
         //Referencia Cardinalidades 1-1
         public Cuenta Cuenta { get; set; }

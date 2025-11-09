@@ -13,20 +13,20 @@ namespace Entidades.Modelos
 
         public string Remitente { get; set; }
 
-        public List<string> ProductosPedidos { get; set; }
+        public List<string> ProductosPedidos { get; set; } xxx
 
         public DateTime FechaPedido { get; set; }
 
 
-        public string EstadoPedido { get; set; }
+        public enum EstadoPedido {Espera, Cancelado, Confirmado} xxx
 
         public float TotalPedido { get; set; }
 
 
         //Referencias de Cardinalidades Cliente
-        public int Id_Cliente { get; set; }
+        public int Id_Cliente { get; set; } // Fk de la clase correspondiente
 
-        public Cliente cliente { get; set; }
+        public Cliente cliente { get; set; } // Referencia de navegacion hacia el principal
 
         // Referencia Cardinalidades Administrador
         public int Id_Administrador { get; set; }
@@ -49,13 +49,12 @@ namespace Entidades.Modelos
 
 
 
-        public Pedido(string Remitente,List<string> ProductosPedidos, DateTime FechaPedido, string EstadoPedido,float TotalPedido)
+        public Pedido(string Remitente,List<string> ProductosPedidos, DateTime FechaPedido,float TotalPedido)
         {
 
             this.Remitente = Remitente;
             this.ProductosPedidos = new List<string>();
             this.FechaPedido = FechaPedido;
-            this.EstadoPedido = EstadoPedido;
             this.TotalPedido = TotalPedido;
 
 

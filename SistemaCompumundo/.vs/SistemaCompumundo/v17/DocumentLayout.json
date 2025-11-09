@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Matt-\\Desktop\\MattSaurus\\ICES\\Practica Profecionalizante\\Grupo-N-13---SistemaVentaDeComputadorasConRecomendaciones\\SistemaCompumundo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{558E8A3E-816A-4CF4-BC65-0BD3FD8FFEB3}|Entidades\\Entidades.csproj|c:\\users\\matt-\\desktop\\mattsaurus\\ices\\practica profecionalizante\\grupo-n-13---sistemaventadecomputadorasconrecomendaciones\\sistemacompumundo\\entidades\\modelos\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{558E8A3E-816A-4CF4-BC65-0BD3FD8FFEB3}|Entidades\\Entidades.csproj|solutionrelative:entidades\\modelos\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{558E8A3E-816A-4CF4-BC65-0BD3FD8FFEB3}|Entidades\\Entidades.csproj|c:\\users\\matt-\\desktop\\mattsaurus\\ices\\practica profecionalizante\\grupo-n-13---sistemaventadecomputadorasconrecomendaciones\\sistemacompumundo\\entidades\\modelos\\detalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{558E8A3E-816A-4CF4-BC65-0BD3FD8FFEB3}|Entidades\\Entidades.csproj|solutionrelative:entidades\\modelos\\detalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{558E8A3E-816A-4CF4-BC65-0BD3FD8FFEB3}|Entidades\\Entidades.csproj|c:\\users\\matt-\\desktop\\mattsaurus\\ices\\practica profecionalizante\\grupo-n-13---sistemaventadecomputadorasconrecomendaciones\\sistemacompumundo\\entidades\\modelos\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{558E8A3E-816A-4CF4-BC65-0BD3FD8FFEB3}|Entidades\\Entidades.csproj|solutionrelative:entidades\\modelos\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{558E8A3E-816A-4CF4-BC65-0BD3FD8FFEB3}|Entidades\\Entidades.csproj|c:\\users\\matt-\\desktop\\mattsaurus\\ices\\practica profecionalizante\\grupo-n-13---sistemaventadecomputadorasconrecomendaciones\\sistemacompumundo\\entidades\\modelos\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,8 +19,12 @@
       "RelativeMoniker": "D:0:0:{558E8A3E-816A-4CF4-BC65-0BD3FD8FFEB3}|Entidades\\Entidades.csproj|solutionrelative:entidades\\modelos\\ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{558E8A3E-816A-4CF4-BC65-0BD3FD8FFEB3}|Entidades\\Entidades.csproj|c:\\users\\matt-\\desktop\\mattsaurus\\ices\\practica profecionalizante\\grupo-n-13---sistemaventadecomputadorasconrecomendaciones\\sistemacompumundo\\entidades\\modelos\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{558E8A3E-816A-4CF4-BC65-0BD3FD8FFEB3}|Entidades\\Entidades.csproj|solutionrelative:entidades\\modelos\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{558E8A3E-816A-4CF4-BC65-0BD3FD8FFEB3}|Entidades\\Entidades.csproj|c:\\users\\matt-\\desktop\\mattsaurus\\ices\\practica profecionalizante\\grupo-n-13---sistemaventadecomputadorasconrecomendaciones\\sistemacompumundo\\entidades\\modelos\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{558E8A3E-816A-4CF4-BC65-0BD3FD8FFEB3}|Entidades\\Entidades.csproj|solutionrelative:entidades\\modelos\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{558E8A3E-816A-4CF4-BC65-0BD3FD8FFEB3}|Entidades\\Entidades.csproj|c:\\users\\matt-\\desktop\\mattsaurus\\ices\\practica profecionalizante\\grupo-n-13---sistemaventadecomputadorasconrecomendaciones\\sistemacompumundo\\entidades\\modelos\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{558E8A3E-816A-4CF4-BC65-0BD3FD8FFEB3}|Entidades\\Entidades.csproj|solutionrelative:entidades\\modelos\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{558E8A3E-816A-4CF4-BC65-0BD3FD8FFEB3}|Entidades\\Entidades.csproj|c:\\users\\matt-\\desktop\\mattsaurus\\ices\\practica profecionalizante\\grupo-n-13---sistemaventadecomputadorasconrecomendaciones\\sistemacompumundo\\entidades\\modelos\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{558E8A3E-816A-4CF4-BC65-0BD3FD8FFEB3}|Entidades\\Entidades.csproj|c:\\users\\matt-\\desktop\\mattsaurus\\ices\\practica profecionalizante\\grupo-n-13---sistemaventadecomputadorasconrecomendaciones\\sistemacompumundo\\entidades\\modelos\\pcarmada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{558E8A3E-816A-4CF4-BC65-0BD3FD8FFEB3}|Entidades\\Entidades.csproj|solutionrelative:entidades\\modelos\\pcarmada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{558E8A3E-816A-4CF4-BC65-0BD3FD8FFEB3}|Entidades\\Entidades.csproj|c:\\users\\matt-\\desktop\\mattsaurus\\ices\\practica profecionalizante\\grupo-n-13---sistemaventadecomputadorasconrecomendaciones\\sistemacompumundo\\entidades\\modelos\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{558E8A3E-816A-4CF4-BC65-0BD3FD8FFEB3}|Entidades\\Entidades.csproj|solutionrelative:entidades\\modelos\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{558E8A3E-816A-4CF4-BC65-0BD3FD8FFEB3}|Entidades\\Entidades.csproj|c:\\users\\matt-\\desktop\\mattsaurus\\ices\\practica profecionalizante\\grupo-n-13---sistemaventadecomputadorasconrecomendaciones\\sistemacompumundo\\entidades\\repos\\repoproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -82,63 +86,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "RepoVentas.cs",
-              "DocumentMoniker": "C:\\Users\\Matt-\\Desktop\\MattSaurus\\ICES\\Practica Profecionalizante\\Grupo-N-13---SistemaVentaDeComputadorasConRecomendaciones\\SistemaCompumundo\\Entidades\\Repos\\RepoVentas.cs",
-              "RelativeDocumentMoniker": "Entidades\\Repos\\RepoVentas.cs",
-              "ToolTip": "C:\\Users\\Matt-\\Desktop\\MattSaurus\\ICES\\Practica Profecionalizante\\Grupo-N-13---SistemaVentaDeComputadorasConRecomendaciones\\SistemaCompumundo\\Entidades\\Repos\\RepoVentas.cs",
-              "RelativeToolTip": "Entidades\\Repos\\RepoVentas.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "DocumentIndex": 0,
+              "Title": "DetalleVenta.cs",
+              "DocumentMoniker": "C:\\Users\\Matt-\\Desktop\\MattSaurus\\ICES\\Practica Profecionalizante\\Grupo-N-13---SistemaVentaDeComputadorasConRecomendaciones\\SistemaCompumundo\\Entidades\\Modelos\\DetalleVenta.cs",
+              "RelativeDocumentMoniker": "Entidades\\Modelos\\DetalleVenta.cs",
+              "ToolTip": "C:\\Users\\Matt-\\Desktop\\MattSaurus\\ICES\\Practica Profecionalizante\\Grupo-N-13---SistemaVentaDeComputadorasConRecomendaciones\\SistemaCompumundo\\Entidades\\Modelos\\DetalleVenta.cs",
+              "RelativeToolTip": "Entidades\\Modelos\\DetalleVenta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T20:25:19.299Z",
+              "WhenOpened": "2025-11-09T19:25:52.278Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "RepoProveedor.cs",
-              "DocumentMoniker": "C:\\Users\\Matt-\\Desktop\\MattSaurus\\ICES\\Practica Profecionalizante\\Grupo-N-13---SistemaVentaDeComputadorasConRecomendaciones\\SistemaCompumundo\\Entidades\\Repos\\RepoProveedor.cs",
-              "RelativeDocumentMoniker": "Entidades\\Repos\\RepoProveedor.cs",
-              "ToolTip": "C:\\Users\\Matt-\\Desktop\\MattSaurus\\ICES\\Practica Profecionalizante\\Grupo-N-13---SistemaVentaDeComputadorasConRecomendaciones\\SistemaCompumundo\\Entidades\\Repos\\RepoProveedor.cs",
-              "RelativeToolTip": "Entidades\\Repos\\RepoProveedor.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T20:25:07.427Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "RepoPedido.cs",
-              "DocumentMoniker": "C:\\Users\\Matt-\\Desktop\\MattSaurus\\ICES\\Practica Profecionalizante\\Grupo-N-13---SistemaVentaDeComputadorasConRecomendaciones\\SistemaCompumundo\\Entidades\\Repos\\RepoPedido.cs",
-              "RelativeDocumentMoniker": "Entidades\\Repos\\RepoPedido.cs",
-              "ToolTip": "C:\\Users\\Matt-\\Desktop\\MattSaurus\\ICES\\Practica Profecionalizante\\Grupo-N-13---SistemaVentaDeComputadorasConRecomendaciones\\SistemaCompumundo\\Entidades\\Repos\\RepoPedido.cs",
-              "RelativeToolTip": "Entidades\\Repos\\RepoPedido.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T20:24:48.872Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "RepoPcArmada.cs",
-              "DocumentMoniker": "C:\\Users\\Matt-\\Desktop\\MattSaurus\\ICES\\Practica Profecionalizante\\Grupo-N-13---SistemaVentaDeComputadorasConRecomendaciones\\SistemaCompumundo\\Entidades\\Repos\\RepoPcArmada.cs",
-              "RelativeDocumentMoniker": "Entidades\\Repos\\RepoPcArmada.cs",
-              "ToolTip": "C:\\Users\\Matt-\\Desktop\\MattSaurus\\ICES\\Practica Profecionalizante\\Grupo-N-13---SistemaVentaDeComputadorasConRecomendaciones\\SistemaCompumundo\\Entidades\\Repos\\RepoPcArmada.cs",
-              "RelativeToolTip": "Entidades\\Repos\\RepoPcArmada.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T20:24:21.329Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "RepoCuenta.cs",
               "DocumentMoniker": "C:\\Users\\Matt-\\Desktop\\MattSaurus\\ICES\\Practica Profecionalizante\\Grupo-N-13---SistemaVentaDeComputadorasConRecomendaciones\\SistemaCompumundo\\Entidades\\Repos\\RepoCuenta.cs",
               "RelativeDocumentMoniker": "Entidades\\Repos\\RepoCuenta.cs",
@@ -146,12 +111,11 @@
               "RelativeToolTip": "Entidades\\Repos\\RepoCuenta.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T20:23:45.561Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-29T20:23:45.561Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "RepoComponente.cs",
               "DocumentMoniker": "C:\\Users\\Matt-\\Desktop\\MattSaurus\\ICES\\Practica Profecionalizante\\Grupo-N-13---SistemaVentaDeComputadorasConRecomendaciones\\SistemaCompumundo\\Entidades\\Repos\\RepoComponente.cs",
               "RelativeDocumentMoniker": "Entidades\\Repos\\RepoComponente.cs",
@@ -159,12 +123,11 @@
               "RelativeToolTip": "Entidades\\Repos\\RepoComponente.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T20:23:27.423Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-29T20:23:27.423Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "RepoCliente.cs",
               "DocumentMoniker": "C:\\Users\\Matt-\\Desktop\\MattSaurus\\ICES\\Practica Profecionalizante\\Grupo-N-13---SistemaVentaDeComputadorasConRecomendaciones\\SistemaCompumundo\\Entidades\\Repos\\RepoCliente.cs",
               "RelativeDocumentMoniker": "Entidades\\Repos\\RepoCliente.cs",
@@ -172,12 +135,11 @@
               "RelativeToolTip": "Entidades\\Repos\\RepoCliente.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T20:23:02.003Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-29T20:23:02.003Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "RepoAdministrador.cs",
               "DocumentMoniker": "C:\\Users\\Matt-\\Desktop\\MattSaurus\\ICES\\Practica Profecionalizante\\Grupo-N-13---SistemaVentaDeComputadorasConRecomendaciones\\SistemaCompumundo\\Entidades\\Repos\\RepoAdministrador.cs",
               "RelativeDocumentMoniker": "Entidades\\Repos\\RepoAdministrador.cs",
@@ -185,12 +147,11 @@
               "RelativeToolTip": "Entidades\\Repos\\RepoAdministrador.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T20:21:28.538Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-29T20:21:28.538Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Matt-\\Desktop\\MattSaurus\\ICES\\Practica Profecionalizante\\Grupo-N-13---SistemaVentaDeComputadorasConRecomendaciones\\SistemaCompumundo\\Entidades\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Entidades\\Data\\ApplicationDbContext.cs",
@@ -198,25 +159,24 @@
               "RelativeToolTip": "Entidades\\Data\\ApplicationDbContext.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAQwAcAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T19:35:07.973Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-29T19:35:07.973Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Pedido.cs",
               "DocumentMoniker": "C:\\Users\\Matt-\\Desktop\\MattSaurus\\ICES\\Practica Profecionalizante\\Grupo-N-13---SistemaVentaDeComputadorasConRecomendaciones\\SistemaCompumundo\\Entidades\\Modelos\\Pedido.cs",
               "RelativeDocumentMoniker": "Entidades\\Modelos\\Pedido.cs",
               "ToolTip": "C:\\Users\\Matt-\\Desktop\\MattSaurus\\ICES\\Practica Profecionalizante\\Grupo-N-13---SistemaVentaDeComputadorasConRecomendaciones\\SistemaCompumundo\\Entidades\\Modelos\\Pedido.cs",
               "RelativeToolTip": "Entidades\\Modelos\\Pedido.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAYwC8AAAAqAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAADwvxYAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-28T20:02:08.402Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Componente.cs",
               "DocumentMoniker": "C:\\Users\\Matt-\\Desktop\\MattSaurus\\ICES\\Practica Profecionalizante\\Grupo-N-13---SistemaVentaDeComputadorasConRecomendaciones\\SistemaCompumundo\\Entidades\\Modelos\\Componente.cs",
               "RelativeDocumentMoniker": "Entidades\\Modelos\\Componente.cs",
@@ -224,12 +184,83 @@
               "RelativeToolTip": "Entidades\\Modelos\\Componente.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAA7wCoAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T20:01:03.723Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-28T20:01:03.723Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
+              "Title": "Ventas.cs",
+              "DocumentMoniker": "C:\\Users\\Matt-\\Desktop\\MattSaurus\\ICES\\Practica Profecionalizante\\Grupo-N-13---SistemaVentaDeComputadorasConRecomendaciones\\SistemaCompumundo\\Entidades\\Modelos\\Ventas.cs",
+              "RelativeDocumentMoniker": "Entidades\\Modelos\\Ventas.cs",
+              "ToolTip": "C:\\Users\\Matt-\\Desktop\\MattSaurus\\ICES\\Practica Profecionalizante\\Grupo-N-13---SistemaVentaDeComputadorasConRecomendaciones\\SistemaCompumundo\\Entidades\\Modelos\\Ventas.cs",
+              "RelativeToolTip": "Entidades\\Modelos\\Ventas.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAADwvxcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T19:53:38.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Matt-\\Desktop\\MattSaurus\\ICES\\Practica Profecionalizante\\Grupo-N-13---SistemaVentaDeComputadorasConRecomendaciones\\SistemaCompumundo\\Entidades\\Modelos\\Cliente.cs",
+              "RelativeDocumentMoniker": "Entidades\\Modelos\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Matt-\\Desktop\\MattSaurus\\ICES\\Practica Profecionalizante\\Grupo-N-13---SistemaVentaDeComputadorasConRecomendaciones\\SistemaCompumundo\\Entidades\\Modelos\\Cliente.cs",
+              "RelativeToolTip": "Entidades\\Modelos\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T19:46:32.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RepoPcArmada.cs",
+              "DocumentMoniker": "C:\\Users\\Matt-\\Desktop\\MattSaurus\\ICES\\Practica Profecionalizante\\Grupo-N-13---SistemaVentaDeComputadorasConRecomendaciones\\SistemaCompumundo\\Entidades\\Repos\\RepoPcArmada.cs",
+              "RelativeDocumentMoniker": "Entidades\\Repos\\RepoPcArmada.cs",
+              "ToolTip": "C:\\Users\\Matt-\\Desktop\\MattSaurus\\ICES\\Practica Profecionalizante\\Grupo-N-13---SistemaVentaDeComputadorasConRecomendaciones\\SistemaCompumundo\\Entidades\\Repos\\RepoPcArmada.cs",
+              "RelativeToolTip": "Entidades\\Repos\\RepoPcArmada.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T20:24:21.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RepoPedido.cs",
+              "DocumentMoniker": "C:\\Users\\Matt-\\Desktop\\MattSaurus\\ICES\\Practica Profecionalizante\\Grupo-N-13---SistemaVentaDeComputadorasConRecomendaciones\\SistemaCompumundo\\Entidades\\Repos\\RepoPedido.cs",
+              "RelativeDocumentMoniker": "Entidades\\Repos\\RepoPedido.cs",
+              "ToolTip": "C:\\Users\\Matt-\\Desktop\\MattSaurus\\ICES\\Practica Profecionalizante\\Grupo-N-13---SistemaVentaDeComputadorasConRecomendaciones\\SistemaCompumundo\\Entidades\\Repos\\RepoPedido.cs",
+              "RelativeToolTip": "Entidades\\Repos\\RepoPedido.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T20:24:48.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RepoProveedor.cs",
+              "DocumentMoniker": "C:\\Users\\Matt-\\Desktop\\MattSaurus\\ICES\\Practica Profecionalizante\\Grupo-N-13---SistemaVentaDeComputadorasConRecomendaciones\\SistemaCompumundo\\Entidades\\Repos\\RepoProveedor.cs",
+              "RelativeDocumentMoniker": "Entidades\\Repos\\RepoProveedor.cs",
+              "ToolTip": "C:\\Users\\Matt-\\Desktop\\MattSaurus\\ICES\\Practica Profecionalizante\\Grupo-N-13---SistemaVentaDeComputadorasConRecomendaciones\\SistemaCompumundo\\Entidades\\Repos\\RepoProveedor.cs",
+              "RelativeToolTip": "Entidades\\Repos\\RepoProveedor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T20:25:07.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RepoVentas.cs",
+              "DocumentMoniker": "C:\\Users\\Matt-\\Desktop\\MattSaurus\\ICES\\Practica Profecionalizante\\Grupo-N-13---SistemaVentaDeComputadorasConRecomendaciones\\SistemaCompumundo\\Entidades\\Repos\\RepoVentas.cs",
+              "RelativeDocumentMoniker": "Entidades\\Repos\\RepoVentas.cs",
+              "ToolTip": "C:\\Users\\Matt-\\Desktop\\MattSaurus\\ICES\\Practica Profecionalizante\\Grupo-N-13---SistemaVentaDeComputadorasConRecomendaciones\\SistemaCompumundo\\Entidades\\Repos\\RepoVentas.cs",
+              "RelativeToolTip": "Entidades\\Repos\\RepoVentas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T20:25:19.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Proveedor.cs",
               "DocumentMoniker": "C:\\Users\\Matt-\\Desktop\\MattSaurus\\ICES\\Practica Profecionalizante\\Grupo-N-13---SistemaVentaDeComputadorasConRecomendaciones\\SistemaCompumundo\\Entidades\\Modelos\\Proveedor.cs",
               "RelativeDocumentMoniker": "Entidades\\Modelos\\Proveedor.cs",
@@ -237,25 +268,11 @@
               "RelativeToolTip": "Entidades\\Modelos\\Proveedor.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T19:57:25.222Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-28T19:57:25.222Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Ventas.cs",
-              "DocumentMoniker": "C:\\Users\\Matt-\\Desktop\\MattSaurus\\ICES\\Practica Profecionalizante\\Grupo-N-13---SistemaVentaDeComputadorasConRecomendaciones\\SistemaCompumundo\\Entidades\\Modelos\\Ventas.cs",
-              "RelativeDocumentMoniker": "Entidades\\Modelos\\Ventas.cs",
-              "ToolTip": "C:\\Users\\Matt-\\Desktop\\MattSaurus\\ICES\\Practica Profecionalizante\\Grupo-N-13---SistemaVentaDeComputadorasConRecomendaciones\\SistemaCompumundo\\Entidades\\Modelos\\Ventas.cs",
-              "RelativeToolTip": "Entidades\\Modelos\\Ventas.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAIwBcAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T19:53:38.172Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Cuenta.cs",
               "DocumentMoniker": "C:\\Users\\Matt-\\Desktop\\MattSaurus\\ICES\\Practica Profecionalizante\\Grupo-N-13---SistemaVentaDeComputadorasConRecomendaciones\\SistemaCompumundo\\Entidades\\Modelos\\Cuenta.cs",
               "RelativeDocumentMoniker": "Entidades\\Modelos\\Cuenta.cs",
@@ -263,38 +280,23 @@
               "RelativeToolTip": "Entidades\\Modelos\\Cuenta.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAQwBQAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T19:51:00.025Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-28T19:51:00.025Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "Administrador.cs",
               "DocumentMoniker": "C:\\Users\\Matt-\\Desktop\\MattSaurus\\ICES\\Practica Profecionalizante\\Grupo-N-13---SistemaVentaDeComputadorasConRecomendaciones\\SistemaCompumundo\\Entidades\\Modelos\\Administrador.cs",
               "RelativeDocumentMoniker": "Entidades\\Modelos\\Administrador.cs",
               "ToolTip": "C:\\Users\\Matt-\\Desktop\\MattSaurus\\ICES\\Practica Profecionalizante\\Grupo-N-13---SistemaVentaDeComputadorasConRecomendaciones\\SistemaCompumundo\\Entidades\\Modelos\\Administrador.cs",
               "RelativeToolTip": "Entidades\\Modelos\\Administrador.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAAAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T19:49:26.114Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-28T19:49:26.114Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\Matt-\\Desktop\\MattSaurus\\ICES\\Practica Profecionalizante\\Grupo-N-13---SistemaVentaDeComputadorasConRecomendaciones\\SistemaCompumundo\\Entidades\\Modelos\\Cliente.cs",
-              "RelativeDocumentMoniker": "Entidades\\Modelos\\Cliente.cs",
-              "ToolTip": "C:\\Users\\Matt-\\Desktop\\MattSaurus\\ICES\\Practica Profecionalizante\\Grupo-N-13---SistemaVentaDeComputadorasConRecomendaciones\\SistemaCompumundo\\Entidades\\Modelos\\Cliente.cs",
-              "RelativeToolTip": "Entidades\\Modelos\\Cliente.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAxwBEAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T19:46:32.251Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "PcArmada.cs",
               "DocumentMoniker": "C:\\Users\\Matt-\\Desktop\\MattSaurus\\ICES\\Practica Profecionalizante\\Grupo-N-13---SistemaVentaDeComputadorasConRecomendaciones\\SistemaCompumundo\\Entidades\\Modelos\\PcArmada.cs",
               "RelativeDocumentMoniker": "Entidades\\Modelos\\PcArmada.cs",
@@ -302,12 +304,11 @@
               "RelativeToolTip": "Entidades\\Modelos\\PcArmada.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAqwCQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T19:46:29.157Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-28T19:46:29.157Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Matt-\\Desktop\\MattSaurus\\ICES\\Practica Profecionalizante\\Grupo-N-13---SistemaVentaDeComputadorasConRecomendaciones\\SistemaCompumundo\\Front\\Form1.cs",
               "RelativeDocumentMoniker": "Front\\Form1.cs",
